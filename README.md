@@ -53,5 +53,50 @@
       <td>贡伟涛（组长）、韩雨萌、刘雪亭、马子朋、胡英杰、高天、赵玥</td>
       <td>https://github.com/taochallenge/Software-engineering</td>
     </tr>
+<tr>
+      <td>Happy Java</td>
+      <td>张绍达（组长）、董笑田、丁子俊、丁志强、苗龙龙、赵家旭</td>
+      <td>https://github.com/laoda19z/HappyJava.git</td>
+    </tr>
+    <tr>
+      <td>无敌工程小队</td>
+      <td>汪燕（组长）、罗梦莹、杨乐、付焘、周双文</td>
+      <td>https://github.com/WYwyan/wudi_software</td>
+    </tr>
+    <tr>
+      <td>TZFive</td>
+      <td>贺词（组长）、杨雨薇、谢好、雍思姗、张雨萌、刘瑞婷</td>
+      <td>https://github.com/XIAOKUOAIyang/software-engineering</td>
+    </tr>
+    <tr>
+      <td>not found 404</td>
+      <td>史恺伦（组长）于琳、宋畅、李建民、李子哲、孟德琳</td>
+      <td>https://github.com/shikailunxue/softwareEngineering_work</td>
+    </tr>
+    <tr>
+      <td>攻城狮</td>
+      <td>曹悦（组长）、李浩林 、李洪磊、 刘震昆</td>
+      <td>https://github.com/a-super-team/jsxh_team</td>
+    </tr>
+    <tr>
+      <td>!(ljm&&bwy)</td>
+      <td>王亚奇（组长）、林文钦、李金桀、苗雨、张庆梁</td>
+      <td>https://github.com/legendary6/SoftwareProcess</td>
+    </tr>
+    <tr>
+      <td>勤时明月</td>
+      <td>刘志伟（组长）、李佳美、梁雅洁、赵鸿超、韩华允</td>
+      <td>https://github.com/baicie/ruanjiangongcheng</td>
+    </tr>
+    <tr>
+      <td>爪哇国在逃类</td>
+      <td>钱思宇（组长）、张若兰、郑微微、刘婉婷、关子欣、张帅帅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>小天使和恶魔</td>
+      <td>胡学杨（组长）、杨佳乐、白星星、孙莹娇、熊静祎</td>
+      <td>https://github.com/huhuxx/SoftwareEngineeringWork</td>
+    </tr>
   </table>
 </div>
