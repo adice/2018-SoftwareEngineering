@@ -89,9 +89,9 @@
       <td>https://github.com/baicie/ruanjiangongcheng</td>
     </tr>
     <tr>
-      <td>爪哇国在逃类</td>
+      <td>爪哇国在逃Servlet</td>
       <td>钱思宇（组长）、张若兰、郑微微、刘婉婷、关子欣、张帅帅</td>
-      <td></td>
+      <td>https://github.com/qianssiyyu/Java-s-class</td>
     </tr>
     <tr>
       <td>小天使和恶魔</td>
