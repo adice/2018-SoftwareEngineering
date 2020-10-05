@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td>not found 404</td>
-      <td>史恺伦（组长）于琳、宋畅、李建民、李子哲、孟德琳</td>
+      <td>史恺伦（组长）于琳、宋畅、李子哲、孟德琳</td>
       <td>https://github.com/shikailunxue/softwareEngineering_work</td>
     </tr>
     <tr>
@@ -97,6 +97,11 @@
       <td>小天使和恶魔</td>
       <td>胡学杨（组长）、杨佳乐、白星星、孙莹娇、熊静祎</td>
       <td>https://github.com/huhuxx/SoftwareEngineeringWork</td>
+    </tr>
+    <tr>
+      <td>kILL_sloth</td>
+      <td>李建民（组长）、郭雨辰</td>
+      <td>https://github.com/lijianmin01/kILL_sloth</td>
     </tr>
   </table>
 </div>
