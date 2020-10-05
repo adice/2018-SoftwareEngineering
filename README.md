@@ -49,7 +49,7 @@
       <td>https://github.com/LIHUICHAOlihuichao/Software-Engineering</td>
     </tr>
     <tr>
-      <td>社会主义加班人</td>
+      <td>Seven Heros</td>
       <td>贡伟涛（组长）、韩雨萌、刘雪亭、马子朋、胡英杰、高天、赵玥</td>
       <td>https://github.com/taochallenge/Software-engineering</td>
     </tr>
