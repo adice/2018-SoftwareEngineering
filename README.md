@@ -100,8 +100,13 @@
     </tr>
     <tr>
       <td>kILL_sloth</td>
-      <td>李建民（组长）、郭雨辰</td>
+      <td>李建民</td>
       <td>https://github.com/lijianmin01/kILL_sloth</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>郭雨辰</td>
+      <td>https://github.com/lovetruthlovelife/kid</td>
     </tr>
   </table>
 </div>
