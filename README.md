@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <td>!(ljm&&bwy)</td>
-      <td>王亚奇（组长）、林文钦、李金桀、苗雨、张庆梁</td>
+      <td>王亚奇（组长）、林文钦、李金桀、苗雨、张庆梁、李建民</td>
       <td>https://github.com/legendary6/SoftwareProcess</td>
     </tr>
     <tr>
@@ -97,11 +97,6 @@
       <td>小天使和恶魔</td>
       <td>胡学杨（组长）、杨佳乐、白星星、孙莹娇、熊静祎</td>
       <td>https://github.com/huhuxx/SoftwareEngineeringWork</td>
-    </tr>
-    <tr>
-      <td>kILL_sloth</td>
-      <td>李建民</td>
-      <td>https://github.com/lijianmin01/kILL_sloth</td>
     </tr>
     <tr>
       <td></td>
